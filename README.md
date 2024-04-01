@@ -16,6 +16,8 @@
 
 A unified repository of coursework fragments from [UC Berkeley MIDS Program](https://www.ischool.berkeley.edu/programs/mids) 2022-2024. This is a collection of my adapted assignment submissions, classwork notebooks, and other relevant materials. It serves to showcase the scope of work, and also for personal reference.
 
+> 🏗 Under Construction - Notebook Addition in Progress
+
 ## 📚 Coursework
 
 I've taken the following core ML courses during my time at MIDS:
