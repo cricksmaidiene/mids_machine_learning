@@ -49,6 +49,7 @@ I've taken the following core ML courses during my time at MIDS:
 | --- | --- |
 | [Stable Diffusion & Image Validation](./src/generative_ai/stable_diffusion_and_image_validation_mids_290_gen_ai.ipynb) | Multimodal image generation and captioning with `diffusers`, `CLIP`, `BLIP` and `Llava` |
 | [Prompt Engineering](./src/generative_ai/prompt_engineering_mids_290_gen_ai.ipynb) | Prompt Engineering Examples with `Mistral7B` |
+| [Retrieval Augmented Generation Proof-of-Concept](./src/generative_ai/retrieval_augmented_generation_poc.ipynb) | Google Colab notebook and report using `Mistal7B`, `Cohere` and `Qdrant` to develop a simple RAG system and iterate on performance |
 
 ### 🤖 Applied Machine Learning (`DATASCI 207`)
 
